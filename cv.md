@@ -8,7 +8,7 @@
 
 ## Summary
 
-I want to start a career as a Frontend developer. I took courses at HTMLAcademy and completed courses on creating and promoting websites. Thanks to this, I got basic skills in HTML, CSS, JS, PHP, MySQL. I am purposeful and quickly assimilate new information. My goal is to become a professional Front-end developer
+I want to work as Frontend developer. I took courses at HTMLAcademy and completed courses on creating and promoting websites. Thanks to this, I got basic skills in HTML, CSS, JS, PHP and MySQL. I am purposeful and quickly assimilate new information. My goal is to become a professional Front-end developer.
 
 ## Skills:
 
